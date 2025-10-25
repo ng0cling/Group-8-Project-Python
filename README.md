@@ -1,2 +1,1 @@
-# Group-8-Project-Python
-Group 8 | Project Python
+Thành viên nhóm và phân công nhiệm vụ
