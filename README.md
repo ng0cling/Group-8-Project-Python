@@ -10,11 +10,11 @@ Thành viên nhóm và Phân công nhiệm vụ
 - Code các phần [25] - [29] trong ReviewSentimentML
 - Tìm hiểu về phần mở rộng ( Movie Recommendations ) 
 3. Phùng Nhật Minh : 
-- Code phần clean_text trong MLtest
+- Code phần clean_text trong ReviewSentimentML
 - Tìm hiểu về thuật toán TF-IDF
 - Làm slide
 4. Ngô Mạnh Duy:
-- Code phần clean_text trong MLtest
+- Code phần clean_text trong ReviewSentimentML
 - Tìm hiểu về thuật toán TF-IDF 
 - Viết báo cáo
 5. Hoàng Linh Phương :
