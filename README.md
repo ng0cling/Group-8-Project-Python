@@ -5,7 +5,7 @@ Thành viên nhóm và Phân công nhiệm vụ
 - Tìm hiểu về các thuật toán Machine Learning (Logistic regression + Linear SVC)
 - Code các phần [2] - [6], [10] - [24] trong ReviewSentimentML
 - Code phần review_sentiment_app để deploy machine learning lên render 
-- Code phần gọi API-URL trong Demo-ReviewSentiment
+- Code phần gọi API-URL và trả về output trong Demo-ReviewSentiment
 2. Nguyễn Ngọc Linh (nhóm phó) :
 - Tìm hiểu về các thuật toán Machine Learning (Random Forest)
 - Code các phần [25] - [29] trong ReviewSentimentML
